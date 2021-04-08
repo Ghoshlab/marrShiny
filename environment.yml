@@ -5,7 +5,7 @@ dependencies:
   - r-tidyverse
   - r-shiny
   - r-shinybs
-  - r-shinjs
+  - r-shinyjs
   - r-dt
   - r-ggplot2
   - r-dplyr
