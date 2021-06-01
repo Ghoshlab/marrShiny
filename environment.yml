@@ -13,4 +13,5 @@ dependencies:
   - r-rlang
   - r-markdown
   - bioconductor-marr=1.2.0-0
+  - bioconductor-s4vectors
   - bioconductor-msprep
