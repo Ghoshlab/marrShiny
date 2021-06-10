@@ -2,7 +2,7 @@ channels:
   - bioconda
   - conda-forge
 dependencies:
-  - r-base=4
+  - r-base=4.1
   - r-tidyverse
   - r-shiny
   - r-shinybs
